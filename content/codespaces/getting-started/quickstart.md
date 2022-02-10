@@ -9,7 +9,7 @@ versions:
 type: quick_start
 topics:
   - Codespaces
-redirect_from:
+redirect_from:51247136
   - /codespaces/codespaces-quickstart
 ---
 
